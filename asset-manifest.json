@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-trafiklab/static/css/main.a955432d.css",
+    "main.js": "/react-trafiklab/static/js/main.ea496227.js",
+    "static/media/react-logo.svg": "/react-trafiklab/static/media/react-logo.749afd9dc7fdedaacf45f1f4b44f545c.svg",
+    "static/media/trafiklab-logo.svg": "/react-trafiklab/static/media/trafiklab-logo.506da6de10bf61b08748ee8da3bcc457.svg",
+    "index.html": "/react-trafiklab/index.html",
+    "main.a955432d.css.map": "/react-trafiklab/static/css/main.a955432d.css.map",
+    "main.ea496227.js.map": "/react-trafiklab/static/js/main.ea496227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a955432d.css",
+    "static/js/main.ea496227.js"
+  ]
+}
