@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-trafiklab/static/css/main.92be36fe.css",
-    "main.js": "/react-trafiklab/static/js/main.ea496227.js",
-    "static/media/react-logo.svg": "/react-trafiklab/static/media/react-logo.749afd9dc7fdedaacf45f1f4b44f545c.svg",
-    "static/media/trafiklab-logo.svg": "/react-trafiklab/static/media/trafiklab-logo.506da6de10bf61b08748ee8da3bcc457.svg",
+    "main.js": "/react-trafiklab/static/js/main.51518832.js",
+    "static/media/react-logo.svg": "/react-trafiklab/static/media/react-logo.8972c4a4ef75c0fe57c871a012cc6f5b.svg",
+    "static/media/trafiklab-logo.svg": "/react-trafiklab/static/media/trafiklab-logo.3d6fdd49c6518690e32c73d55a23b950.svg",
     "index.html": "/react-trafiklab/index.html",
     "main.92be36fe.css.map": "/react-trafiklab/static/css/main.92be36fe.css.map",
-    "main.ea496227.js.map": "/react-trafiklab/static/js/main.ea496227.js.map"
+    "main.51518832.js.map": "/react-trafiklab/static/js/main.51518832.js.map"
   },
   "entrypoints": [
     "static/css/main.92be36fe.css",
-    "static/js/main.ea496227.js"
+    "static/js/main.51518832.js"
   ]
 }
